@@ -6,7 +6,7 @@
 * Adaptive
 * Perfectionist/Attention to detail
 * Programming Languages
-  * Python
-  * HTML
-  * CSS
-  * JavaScript
+  * **Python**
+  * **HTML**
+  * **CSS**
+  * **JavaScript**
